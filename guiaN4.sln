@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guiaN4", "guiaN4.csproj", "{57F851F2-DA59-4129-B123-2E406A74F367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F851F2-DA59-4129-B123-2E406A74F367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F851F2-DA59-4129-B123-2E406A74F367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F851F2-DA59-4129-B123-2E406A74F367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F851F2-DA59-4129-B123-2E406A74F367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD268F8-77C7-4FE7-8FBF-0E3EB5C5DFF5}
+	EndGlobalSection
+EndGlobal
